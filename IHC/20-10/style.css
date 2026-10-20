@@ -1,0 +1,15 @@
+*{
+    background-color: rgb(53, 53, 53);
+    
+}
+h1{
+    font-family: "Michroma", sans-serif;
+    color: aliceblue;
+}
+
+ul{
+    font-family: "Tilt Neon", sans-serif;
+    color: aliceblue;
+    list-style: none;
+    
+}
